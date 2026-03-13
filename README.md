@@ -2,6 +2,8 @@
 
 A **property management demo** with a NestJS API and a React frontend. It manages properties, leases (stored as extracted terms), and maintenance requests, with **AI-powered maintenance triage** and **semantic property search** using Google Gemini.
 
+**Live demo:** [https://prop-core.vercel.app](https://prop-core.vercel.app)
+
 ---
 
 ## What it does
@@ -60,7 +62,7 @@ docker compose up -d --build
 - Swagger: **http://localhost:3000/api**
 - Health: **http://localhost:3000/health** (returns `{ "status": "ok" }`)
 
-On first start with an empty DB, the API seeds 4 properties with leases and maintenance. Later runs do not re-seed.
+On first start with an empty DB, the API seeds 100+ properties with leases and maintenance. Later runs do not re-seed.
 
 ### 3. Run the frontend
 
