@@ -1,0 +1,1 @@
+{"version":3,"file":"search-properties.dto.js","sourceRoot":"","sources":["../../../src/properties/dto/search-properties.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,6CAA8C;AAC9C,qDAAsD;AAEtD,MAAa,mBAAmB;IAO9B,KAAK,CAAS;CACf;AARD,kDAQC;AADC;IANC,IAAA,qBAAW,EAAC;QACX,OAAO,EAAE,sCAAsC;QAC/C,WAAW,EAAE,+BAA+B;KAC7C,CAAC;IACD,IAAA,0BAAQ,GAAE;IACV,IAAA,2BAAS,EAAC,CAAC,CAAC;;kDACC"}
